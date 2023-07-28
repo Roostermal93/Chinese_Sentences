@@ -1,0 +1,205 @@
+{
+    "count": 33,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "10b74a77-ab88-460b-9b1d-ff4cb8b084b2",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1a487c77-eca9-49c2-8c37-35ffe9854589",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1d354ffc-e25f-4d34-aa63-fd6a2b5c6fbd",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "283779d7-b70f-4190-99ed-02c67a72fd37",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3146fbea-cd8e-465f-94b7-8d82b24f9e64",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "31a45d89-a3f6-4932-811d-82bed4c38c5d",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4a945aef-f3e5-4526-8420-7cb57c933c25",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5d5a363b-7044-40f5-a6e9-5ab960c0cb7b",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6087bdfb-ec21-4f94-9f76-2cc8b0da28f2",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6440c3ab-b547-4a71-8c13-d3bbefe97b6a",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "71cc9a84-cde7-41cb-a56f-f8a478a46c9f",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7620af2b-78ae-440c-853a-98258bc249c0",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "77481992-4149-456b-a891-5156d4736a8f",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7999cb21-a2d2-4216-ac99-b374b9799df9",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "8355cda7-8943-4355-98d7-882ea9c0a4b2",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "93f220d8-fc14-4662-b123-84f126103416",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9986a2c9-b587-4ba9-a9f1-87ee66415547",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9b8a023f-c64a-454f-98c7-20b7f40bce9a",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9c25d8a2-dea5-40f1-a8c3-ce087f1032ef",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9e0fe7a2-07d3-4964-b40c-fff2256d1e7e",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a60548de-731f-44cf-8be9-85d5d73da967",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ab644841-a696-483b-af40-808310b3cfe0",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "bddc5a6b-5026-4c90-9df3-9c5e0f6090bc",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "be446e83-b0ea-49db-a1ff-50605d3e018d",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cb8827f5-c340-4b21-a2d5-76df57617cef",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "cbb68a0f-50bf-4746-b11d-d6e061cd5440",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ceffa87b-fadf-4c70-bb5c-ffcf6e8f0c04",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d30fb64c-5d26-4fff-9d9c-d462b42e7786",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "dc894ad7-0c0a-498d-a964-0a210b768e5d",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e9ad037d-520d-469e-9ffd-031cc29130d9",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "f0bc6b4e-6307-43d8-aaeb-633368ce4069",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "f425b360-24e0-47de-b688-8f39d49025d0",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ffb6e254-bfc1-4c98-aa5f-dc0ba93a85a3",
+            "collectionId": "Chinese",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
